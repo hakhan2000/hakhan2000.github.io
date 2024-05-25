@@ -9,4 +9,4 @@ Originally from the suburbs of Chicago, I moved to Madison in 2019 to pursue my 
 
 Having just completed the program, I can definitely say that accepting the offer was one of the best decisions in my life. I was able to refine and advance my technical knowledge using modern technologies, gain an understanding of how analytics ties into the business world, and network with leading industry professionals and develop an appreciation for real-world challenges that they face and the solutions that they create. Additionally, I was able to deepen my relationship with my peers in my cohort and have developed a long-lasting camaraderie.
 
-! [Grad Friends Pic] (assets\img\IMG_2149.jpg)
+![Grad Friends Pic](assets\img\IMG_2149.jpg)
