@@ -44,7 +44,7 @@ To learn more about this project, please visit the corresponding GitHub reposito
 
 In this project, I became more familiar with using the cloud to perform data analysis. Specifically, I constructed a predictive machine learning model using AWS Sagemaker to assess the likelihood of bankruptcy for 10 companies that were being considered for a new portfolio. Moreover, I designed a cloud-native data architecture in AWS that has the capability to centralize data storage and streamline analytics. This architecture included the following steps: creating a landing zone for various data types and sources using AWS S3 and using AWS Redshift to create a data warehouse that consolidated balance sheets, income statements, and bankruptcy statuses for ease in access. Finally, I used AWS Glue to maintain efficient scalability and replicability through automation.
 
-To learn more about this project, please visit the corresponding GitHub repository [here] (https://github.com/hakhan2000/Design-Cloud-Data-Architecture)
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Design-Cloud-Data-Architecture).
 
 My final presentation about this project can be found below:
 
