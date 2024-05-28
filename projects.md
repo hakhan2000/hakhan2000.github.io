@@ -22,7 +22,7 @@ In collaboration with AGCO Corporation as part of my Consulting Practicum, I was
 
 **Software Used**: Python
 
-In this project, I used predictive modeling with the National 2009 H2N1 Flu Survey dataset to determine the individual vaccination likelihood for the 2009 H1N1 influenza virus and the seasonal influenza virus. Through careful data preprocessing that included accounting for missing values, ensuring all numeric variables were scaled properly, and encoding categorical variables in a binary representation, I ensured that the data was prepared efficiently prior to constructing the machine learning models. The models that I constructed in this project were Logistic Regression, Random Forest Classification, XGBoost (Extreme Gradient Boosting), Decision Tree Classifier, Gaussian Naive Bayes, and LightGBM (Light Gradient Boosting Machine). By tuning each model's hyperparameters with Grid-Search Cross-Validation, I was able to effectively minimize computational resources and maximize ROC_AUC performance.
+In this project, I used predictive modeling with the National 2009 H2N1 Flu Survey dataset to determine the individual vaccination likelihood for the 2009 H1N1 influenza virus and the seasonal influenza virus. Through careful data preprocessing that included accounting for missing values, ensuring all numeric variables were scaled properly, and encoding categorical variables in a binary representation, I verified that the data was prepared efficiently prior to constructing the machine learning models. The models that I constructed in this project were Logistic Regression, Random Forest Classification, XGBoost (Extreme Gradient Boosting), Decision Tree Classifier, Gaussian Naive Bayes, and LightGBM (Light Gradient Boosting Machine). By tuning each model's hyperparameters with Grid-Search Cross-Validation, I was able to effectively minimize computational resources and maximize ROC_AUC performance.
 
 To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Predict-Flu-Vaccination).
 
@@ -42,3 +42,10 @@ To learn more about this project, please visit the corresponding GitHub reposito
 
 **Software Used**: AWS S3, AWS Glue, AWS Redshift, AWS Sagemaker
 
+In this project, I became more familiar with using the cloud to perform data analysis. Specifically, I constructed a predictive machine learning model using AWS Sagemaker to assess the likelihood of bankruptcy for 10 companies that were being considered for a new portfolio. Moreover, I designed a cloud-native data architecture in AWS that has the capability to centralize data storage and streamline analytics. This architecture included the following steps: creating a landing zone for various data types and sources using AWS S3 and using AWS Redshift to create a data warehouse that consolidated balance sheets, income statements, and bankruptcy statuses for ease in access. Finally, I used AWS Glue to maintain efficient scalability and replicability through automation.
+
+To learn more about this project, please visit the corresponding GitHub repository [here] (https://github.com/hakhan2000/Design-Cloud-Data-Architecture)
+
+My final presentation about this project can be found below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GnT2lOavsAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
