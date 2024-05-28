@@ -26,11 +26,15 @@ In this project, I used predictive modeling with the National 2009 H2N1 Flu Surv
 
 To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Predict-Flu-Vaccination).
 
-**COVID-19 New Positive Changes in 2021**:
+**United States COVID-19 New Positive Changes in 2021**:
 
 **Date**: September 2023 to October 2023
 
 **Software Used**: Tableau
+
+In this project, I utilized COVID-19 data to determine how the amount of new positive cases in the United States changed over time in 2021. Using Tableau, I created several visualizations that included a dynamic map, line chart, table chart, and bar chart that integrated seamlessly together to create an interactive user-friendly dashboard. In doing so, I was able to pinpoint California as the state with the highest amount of new positive COVID-19 cases in the United States for 2021 and then created different visualizations to dive deeper into the state and county level.
+
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/COVID-CA-2021-Dashboard).
 
 **Prototyping Cloud-Native Data Architecture**:
 
