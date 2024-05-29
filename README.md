@@ -2,6 +2,7 @@
   <a href="/about/" class="button">About Me</a>
   <a href="/resume/" class="button">Resume</a>
   <a href="/projects/" class="button">Projects</a>
+  <a href="/contact/" class="button">Contact</a>
 </div>
 
 <br>
