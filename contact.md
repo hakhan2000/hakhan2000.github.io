@@ -9,5 +9,5 @@ If you are interested in some of my project experiences and would like to speak 
 
 Please click on any image to be redirected to my LinkedIn profile or to send me an email.
 
-[![LinkedIn](assets/img/LinkedinLogo.png){:height="75px" width="75px"}](https://www.linkedin.com/in/hasan-khan-2000/)
+[![LinkedIn](assets/img/LinkedinLogo.png)](https://www.linkedin.com/in/hasan-khan-2000/)
 [![Email](assets/img/email_logo.png){:height="50px" width="50px"}](mailto:hakhan2000@gmail.com)
