@@ -9,5 +9,5 @@ If you are interested in some of my project experiences and would like to speak 
 
 Please click on any image to be redirected to my LinkedIn profile or to send me an email.
 
-[![LinkedIn](https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-2011.png)](https://www.linkedin.com/in/hasan-khan-2000/)
-[![Email](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TFTl9sS9eMSia2-sv2aeQU8H-qFXgyY4Qw&s)](mailto:hakhan62000@gmail.com)
+[![LinkedIn](assets/img/LinkedInLogo.png)](https://www.linkedin.com/in/hasan-khan-2000/)
+[![Email](assets/img/email_logo.png)](mailto:hakhan62000@gmail.com)
