@@ -36,6 +36,10 @@ In this project, I utilized COVID-19 data to determine how the amount of new pos
 
 To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/COVID-CA-2021-Dashboard).
 
+Here is a screenshot of the dashboard at the county level for California below:
+
+![CA County Dashboard](/assets/img/CA-County-Dashboard.png)
+
 **Prototyping Cloud-Native Data Architecture**:
 
 **Date**: September 2023 to October 2023
