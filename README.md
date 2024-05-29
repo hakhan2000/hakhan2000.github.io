@@ -1,3 +1,9 @@
+<div style="margin-top: 20px;">
+  <a href="/about/" class="button">About Me</a>
+  <a href="/resume/" class="button">Resume</a>
+  <a href="/projects/" class="button">Projects</a>
+</div>
+
 # Welcome to my Portfolio!
 
 Hi there, my name is Hasan!
@@ -8,8 +14,8 @@ Hi there, my name is Hasan!
 
 I hope you enjoy your stay!
 
-<div style="margin-top: 20px;">
+<!-- <div style="margin-top: 20px;">
   <a href="/about/" class="button">About Me</a>
   <a href="/resume/" class="button">Resume</a>
   <a href="/projects/" class="button">Projects</a>
-</div>
+</div> -->
