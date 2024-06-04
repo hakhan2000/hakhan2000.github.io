@@ -32,6 +32,8 @@ permalink: /projects/
 
 Here are some of the projects that I've completed and what I am currently working on:
 
+![AGCO_Logo](/assets/img/agco_logo.png)
+
 **Identifying Fraudulent Transactions in Travel and Expense Reports (AGCO Corporation)**:
 
 **Date**: January 2024 to May 2024
@@ -78,3 +80,23 @@ To learn more about this project, please visit the corresponding GitHub reposito
 My final presentation about this project can be found below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GnT2lOavsAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Unveiling SpaceX Falcon9 Launch Success**:
+
+**Date**:  February 2023 to April 2023
+
+**Software Used**: Python, SQL, Folium, Plotly
+
+In this project, I performed web scraping with Python using the BeautifulSoup and Requests libraries to acquire Falcon 9 launch records from SpaceX. The main task was to identify and understand factors that influence these launches to assist competing startups in making a strategic bid against them. After that, I used Python and SQL to conduct exploratory data analysis and generate labeled data that could be used to create supervised models. Finally, I created an interactive dashboard with Plotly to allow for ease in launch record analysis, developed a proximity map with Folium for launch site analysis, and built/tuned several classification models to predict the success of the first stage landing.
+
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/SpaceX-Falcon9-Project/tree/main).
+
+**Classifying NFL Offensive Play Types**:
+
+**Date**: September 2021 to December 2021
+
+**Software Used**: Python
+
+In this project, my goal was to determine whether NFL Offensive Plays can be predicted and classified by use of machine learning models. If successful, the ideal model could be used to assist a defensive team in devising strategies that are meant to counter a team that is known to execute certain types of plays. Specifically, I used NFL data from the 2020 season and created two Python notebook files: the first notebook was used to perform data cleaning, which consisted of removing plays in a column with specific conditions, verifying that the column is not null, standardizing certain values through mapping, and saving the data as a CSV file. Moreover, the second notebook was used to perform feature selection, encode categorical variables, and the primary model training steps. These steps included splitting the data into training and test sets, training the model using the training data, evaluating the model using training and validation sets, and printing out the model's performance scores. Some models used in the analysis include Decision Tree, K-Nearest Neighbors, Random Forest, Bagging, Adaptive Boosting, and Stacking.
+
+To learn more about this project, please visit the corresponding GitHub repository [here](https://github.com/hakhan2000/Predicting-NFL-Offensive-Plays).
