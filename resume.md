@@ -4,6 +4,10 @@ permalink: /resume/
 ---
 
 <div style="margin-top: 20px;">
+    <a href="/" style="display: inline-block; text-align: center; margin-right: 10px;">
+        <img src="assets/img/home.png" alt="Home" style="width: 100px; height: 100px;"><br>
+        <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">About Me</span>
+    </a>
     <a href="/about" style="display: inline-block; text-align: center; margin-right: 10px;">
         <img src="/assets/img/about_me.png" alt="About Me" style="width: 100px; height: 100px;"><br>
         <span style="display: block; background-color: #007bff; color: white; padding: 10px; border-radius: 5px;">About Me</span>
