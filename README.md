@@ -29,7 +29,7 @@ I am a recent Business Analytics Graduate from the Wisconsin School of Business 
 
 Currently, I am:
 
-- Engaging in a data analytics project with a tolling company
+- Engaging in a data analytics project with a consulting company
 - Working through the Tableau Desktop Specialist Exam Prep Course from Udemy
 - Revising for the SnowPro Core Certification Exam
 
