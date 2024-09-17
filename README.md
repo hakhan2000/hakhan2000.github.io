@@ -32,5 +32,6 @@ Currently, I am:
 - Engaging in a data analytics project with a consulting company
 - Working through the Tableau Desktop Specialist Exam Prep Course from Udemy
 - Revising for the SnowPro Core Certification Exam
+- Preparing for the AWS Cloud Practitioner Fundamentals Exam
 
 I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
