@@ -27,11 +27,6 @@
 
 I am a recent Business Analytics Graduate from the Wisconsin School of Business and am currently searching for my future role. I am passionate about leveraging data to guide businesses in strategic decision-making and strongly believe in creating a collaborative team environment that follows diversity, equity, and inclusion principles. My core competencies include data extraction, data cleaning, data transformations, exploratory data analysis, and data visualization using software such as Python, R, SQL, Tableau, and PowerBI among others.
 
-Currently, I am:
+Currently, I am a Valuation & Transaction Disputes Associate as part of Ankura Consulting's Tax Controversy team. I am primarily utilizing SQL and Microsoft Excel to perform in-depth financial data analysis that can be used as evidence in IRS Tax Disputes for Fortune 500 companies. I am always open to hearing about new opportunities, please feel free to connect with me on LinkedIn or send me an email using the links below.
 
-- Engaging in a data analytics project with a consulting company
-- Working through the Tableau Desktop Specialist Exam Prep Course from Udemy
-- Revising for the SnowPro Core Certification Exam
-- Preparing for the AWS Cloud Practitioner Fundamentals Exam
-
-I hope you enjoy your stay and please do not hesitate to reach out if you have any questions or want to learn more about me!
+Hope you enjoy your stay!
